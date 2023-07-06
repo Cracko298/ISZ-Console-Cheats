@@ -1,2 +1,5 @@
 # ISZ-Console-Cheats
-A full dump of all objects and properties within ISZ-2021 (Steam/PC).
+- A simple yet full/plentiful cheat sheet for ISZ-2021.
+
+# Usage:
+- 
